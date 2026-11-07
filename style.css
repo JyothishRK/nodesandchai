@@ -8,3 +8,5 @@ a{color:var(--accent)}
 .muted{color:var(--muted)}
 img.logo{width:96px;height:96px;border-radius:50%}
 footer{margin-top:48px;font-size:.9rem;color:var(--muted)}
+code{display:block;margin:.4em 0;padding:10px 12px;background:#2E211A;border-radius:8px;white-space:pre-wrap;font-size:.95rem}
+li{margin-bottom:.5em}
